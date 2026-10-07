@@ -1,0 +1,57 @@
+before
+GS01_SaltPepper_Polished_ORIG soft 14s ok
+GS01_SaltPepper_Polished_ORIG grazing 13s ok
+GS01_SaltPepper_Polished_ORIG side 12s ok
+GS07_BahamaBlue_Polished_ORIG soft 14s ok
+GS07_BahamaBlue_Polished_ORIG grazing 14s ok
+GS07_BahamaBlue_Polished_ORIG side 13s ok
+GS07_BahamaBlue_Flamed_ORIG soft 24s ok
+DONE
+v4a
+GS01_SaltPepper_Polished soft 19s ok
+GS01_SaltPepper_Polished grazing 25s ok
+GS01_SaltPepper_Polished side 20s ok
+GS07_BahamaBlue_Polished soft 19s ok
+GS07_BahamaBlue_Polished grazing 25s ok
+GS07_BahamaBlue_Polished side 21s ok
+GS01_SaltPepper_Polished_ORIG soft 11s ok
+GS07_BahamaBlue_Polished_ORIG soft 12s ok
+DONE v4a
+v4b
+GS01_SaltPepper_Polished soft 19s ok
+GS01_SaltPepper_Polished grazing 24s ok
+GS01_SaltPepper_Polished side 20s ok
+GS07_BahamaBlue_Polished soft 20s ok
+GS07_BahamaBlue_Polished grazing 21s ok
+GS07_BahamaBlue_Polished side 20s ok
+GS01_SaltPepper_Honed soft 21s ok
+GS07_BahamaBlue_Flamed soft 32s ok
+GS07_BahamaBlue_Flamed side 42s ok
+DONE v4b
+v4c
+GS01_SaltPepper_Polished soft 20s ok
+GS01_SaltPepper_Polished grazing 20s ok
+GS02_FlameSwirl_Polished soft 19s ok
+GS02_FlameSwirl_Polished grazing 20s ok
+GS03_DarkMaroon_Polished soft 19s ok
+GS03_DarkMaroon_Polished grazing 21s ok
+GS04_FoldedRock_Polished soft 20s ok
+GS04_FoldedRock_Polished grazing 20s ok
+GS05_HighContrast_Polished soft 19s ok
+GS05_HighContrast_Polished grazing 21s ok
+GS06_RustRed_Polished soft 20s ok
+GS06_RustRed_Polished grazing 20s ok
+GS07_BahamaBlue_Polished soft 20s ok
+GS07_BahamaBlue_Polished grazing 21s ok
+GS01_SaltPepper_Honed side 20s ok
+GS04_FoldedRock_RockPitched soft 52s ok
+GS07_BahamaBlue_Flamed soft 32s ok
+GS07_BahamaBlue_Flamed side 42s ok
+GS07_BahamaBlue_Honed soft 23s ok
+DONE v4c
+hd
+hd GS01_SaltPepper_Polished soft 102s ok
+hd GS07_BahamaBlue_Polished soft 102s ok
+hd GS05_HighContrast_Polished grazing 109s ok
+hd GS07_BahamaBlue_Flamed side 345s ok
+DONE hd

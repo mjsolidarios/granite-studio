@@ -1,0 +1,41 @@
+queued 30
+patch ['1st'] 3s ok
+patch ['2nd'] 3s ok
+patch ['3rd'] 3s ok
+patch ['4th'] 3s ok
+patch ['5th'] 3s ok
+patch ['6th'] 3s ok
+beauty ['1st'] 61s ok
+beauty ['2nd'] 63s ok
+beauty ['3rd'] 57s ok
+beauty ['4th'] 69s ok
+beauty ['6th'] 63s ok
+detail ['1st'] 48s ok
+detail ['2nd'] 46s ok
+detail ['3rd'] 46s ok
+detail ['4th'] 48s ok
+detail ['5th'] 47s ok
+detail ['6th'] 47s ok
+edge ['1st'] 32s ok
+edge ['2nd'] 31s ok
+edge ['3rd'] 30s ok
+edge ['4th'] 44s ok
+edge ['5th'] 33s ok
+edge ['6th'] 33s ok
+seeds ['1st'] 55s ok
+seeds ['2nd'] 53s ok
+seeds ['3rd'] 54s ok
+seeds ['4th'] 58s ok
+seeds ['5th'] 56s ok
+seeds ['6th'] 56s ok
+lineup ['1st', '2nd', '3rd', '4th', '5th', '6th'] 72s ok
+ALL DONE
+re-edge ['1st'] 34s ok
+re-edge ['2nd'] 33s ok
+re-edge ['3rd'] 32s ok
+re-edge ['4th'] 45s ok
+re-edge ['5th'] 35s ok
+re-edge ['6th'] 34s ok
+EDGE DONE
+re-lineup 71s ok
+LINEUP DONE

@@ -1,0 +1,28 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Blender autosave/backup files (the primary .blend is tracked)
+*.blend[0-9]
+*.blend[0-9][0-9]
+*.blend@
+
+# Working renders; retain scripts, calibration metadata, and existing logs
+/_previews/
+/_previews_v2/
+/_cal/*.png
+/_report/renders*/*.png
+/Blender/macro_tests/*.png
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini

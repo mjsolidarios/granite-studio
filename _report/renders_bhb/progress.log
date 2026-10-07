@@ -1,0 +1,22 @@
+start
+job 7s ok
+job 5s ok
+job 5s ok
+job 6s ok
+job 6s ok
+job 5s ok
+job 5s ok
+job 5s ok
+job 5s ok
+job 39s ok
+job 30s ok
+job 39s ok
+ALL DONE
+slab 39s ok
+slab 31s ok
+slab 39s ok
+SLAB DONE
+slab2 42s ok
+slab2 32s ok
+slab2 42s ok
+SLAB2 DONE
